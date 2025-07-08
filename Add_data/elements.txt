@@ -1,0 +1,15 @@
+Mg
+Al
+Si
+K
+Ca
+Ti
+Mn
+Fe
+Rb
+Sr
+Zr
+Ba
+La
+Ce
+U
