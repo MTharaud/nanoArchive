@@ -103,7 +103,9 @@ Notebooks often convert `Depth` and `# sample` to numeric values and filter/sort
 
 ## License
 
-No license is included in this repository. If you plan to publish the work, consider adding a `LICENSE` file (e.g. MIT, CC-BY).
+Data files and figures are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+The Jupyter notebooks (code) are not freely licensed. Any use requires prior written permission from the author — see [LICENSE](LICENSE).
 
 ## Contact
 
