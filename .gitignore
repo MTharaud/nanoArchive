@@ -176,3 +176,12 @@ cython_debug/
 # ignore the folder named 'Micky' and 'old'
 Micky/
 old/
+Deleted/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Stray files
+*.zip
+plot_Sum.png
